@@ -1,4 +1,4 @@
-### DEPLOYING A CONTAINERIZED PYTHON USING DOCKER AND KUBERNETES
+# DEPLOYING A CONTAINERIZED PYTHON USING DOCKER AND KUBERNETES
  Prerequistes for this process is
     1.installed docker and its running
     2.installed kubernetes
